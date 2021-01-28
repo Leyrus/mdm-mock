@@ -1,0 +1,26 @@
+{
+  "access_token": "e45987ea-7de2-4a54-a647-0331d658c579",
+  "mpt": "e444e952-641e-4d0d-bbd9-e66959e14742",
+  "refresh_token": "75ede001-ce8c-42b9-ba85-75b9436dbde0",
+  "mpt_expires_in": 3599,
+  "refresh_expires_in": 7199,
+  "scope": [
+    "authType",
+    "authorities",
+    "contactEmail",
+    "contactPhone",
+    "currOrgId",
+    "currOrgRoles",
+    "displayName",
+    "givenname",
+    "mdm_id",
+    "organizations",
+    "regionId",
+    "sn",
+    "user_name"
+  ],
+  "token_type": "Bearer",
+  "old_token": "e45987ea-7de2-4a54-a647-0331d658c579",
+  "expires_in": 3599,
+  "JWTToken": "eyAiY3R5IjogIkpXVCIsICJ0eXAiOiAiand0IiwgImVuYyI6ICJBMTI4Q0JDX0hTMjU2IiwgImFsZyI6ICJSU0FFU19QS0NTMV9WMV81IiB9.etCjl70NrqrMAk-s7ZQst4D992TkW1qtY2JYzu6IqP9oQGC1rMYrR3R-9QA4V6f3Cym-KRPl5ouRyH12HfCRNw3KAlhdGaD9EBcLT3Td4gEnMe9hSaGPBop0XjWeHA7vTrh0YcZoG6z9GJVZA1aG5DIonN0CNF94izj2lFr6i7s.IZKT2SpXHNzo4nPylmaKkA.qbWrielZVoY6QI5WTfLIh3V-tQaQ5wqy3CFqNSGvFNAmPjpN0yW96hLVV4WImix2uU107hZrCQgKDHiw8IKEXzj90i5_G1iW1c9hAAOyQJPVmB7VUScOqYQQifetE6nzeQOjBQU5RX9Q5F3dWVef-lHVX2sz8zxm5YJnu9jsAcC98r5Us5i81rOi2LhVsQOHCRLcVR74e3CiQvhqzuRco4TL2AogrWqc2mC2lSUr5XgS4uNVn8RV_uZIG4D5yenvn5dHcvwpPaavLQXEKmxqwfMtPB0uos-AYyWyQwclMSMB-31dOPpFkObOhG6mtt34CapXCUFoD3I1muXBmnZJ6fb2xAKdawT2fsc0J_asI2G0UbbREcu3kq__X-mDz4dZND0kvyFGUNyFdUkbQ8cRLQNEcRgj1Ja3OwNwggcsFrGEXMNA8ClMW82g_PV6S2szsFt5AkNmC_xIgmC94e_kxjvIUaiCrFKPoP2AC4wgavOftqYfdZQ2hxJn6zJTphIObMUEQskx5PMhJV600DI_GSJ-n1xpDB_H6u-tblJ-7aNlKQOH9rerReiCUlEBuZitQVcrt09rObLibMxYfWbxKa50c27PW9TpxuWiOonUkHPwHBSY8oBjdQq-lQ2u_Mw8h65PECebNeiMrzX6o0CcTwafrDnezSkXjv09-KZ6YpM.PdzI1dg8tfHb0gsBQZ0pxQ"
+}

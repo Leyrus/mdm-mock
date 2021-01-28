@@ -1,0 +1,27 @@
+{
+  "content": [
+    {
+      "timezoneRu": "(GMT+03:00) Европа / Москва",
+      "authorFio": "",
+      "catalogId": {
+        "caption": "Часовые пояса",
+        "catalogIdentifier": "time_zone",
+        "catalogUuid": "5b85d8bb-2d25-4271-a88c-eb33104b8c94",
+        "catalogTypeId": "1",
+        "catalogGroupCode": null,
+        "catalogGroupCaption": null
+      },
+      "timezone": "Europe/Moscow",
+      "gmtOffset": "GMT+03:00",
+      "dateFrom": "2019-10-28T09:09:19.772+0000",
+      "uuid": "ef7afed5-0c47-11ea-9520-d0abd555886c",
+      "version": 461,
+      "timezoneEn": "(GMT+03:00) Europe/Moscow",
+      "createDate": "2019-10-28T09:09:19.772+0000"
+    }
+  ],
+  "number": 0,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

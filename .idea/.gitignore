@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../mdm-mock-server\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Leyrus\Desktop\korus\mdm-mock-server\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
