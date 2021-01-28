@@ -10,20 +10,16 @@ const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
 
-
 const token = 'Bearer sso_1.0_03ad656a-a6ca-4b21-b9f8-72b99ec9e463'
 const AUTHORIZATION = 'Authorization';
-// const SET_COOKIE = 'Set-Cookie';
 
 server.get('/oauth2-consumer/tokens/@current', (req, res) => {
   res.header(AUTHORIZATION, token)
-  // res.header(SET_COOKIE, `act=${token.split(' ')[1]}; Path=/;`)
   res.jsonp(tokenJson)
 })
 
 server.get('/mdm-adapter/api/v1/user-profile/roles', (req, res) => {
   res.header(AUTHORIZATION, token)
-  // res.header(SET_COOKIE, `act=${token.split(' ')[1]}; Path=/;`)
   res.jsonp(userRolesJson)
 })
 
