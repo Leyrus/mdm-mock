@@ -11,7 +11,10 @@ RecCdApi/appsettings.Development.json
    
 RecCdService/appsettings.Development.json
 
-поменять MdmAdapterUrl на http://localhost:55668/mdm-adapter
+поменять MdmAdapterUrl на
+```
+"MdmAdapterUrl": "http://localhost:55668/mdm-adapter",
+```
    
 3. Добавить куку в браузере, это можно сделать в консоли браузера, добавив:
 ```
