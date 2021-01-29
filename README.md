@@ -7,9 +7,7 @@ REACT_APP_UIDM_API=http://localhost:55668
 
 2. На беке в 
 
-RecCdApi/appsettings.Development.json
-   
-RecCdService/appsettings.Development.json
+RecCdApi/appsettings.Development.json и RecCdService/appsettings.Development.json
 
 поменять MdmAdapterUrl на
 ```
